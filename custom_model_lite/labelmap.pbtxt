@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'chai'
+}
+
+item {
+  id: 2
+  name: 'lon'
+}
+
+item {
+  id: 3
+  name: 'binh_giu_nhiet'
+}
+
