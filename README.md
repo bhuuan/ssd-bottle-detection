@@ -1,4 +1,4 @@
-# Bottle, can and thermos flask detector model using SSD-MobileNet
+# Bottle, can and thermos flask detection model using SSD-MobileNet
 
 This model was trained using a Colab notebook by EdjeElectronics.
 [details here](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/tree/master)
